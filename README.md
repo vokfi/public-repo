@@ -1,2 +1,2 @@
-# the-public-one
+# public-repo
 1
