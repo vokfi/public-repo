@@ -1,2 +1,2 @@
 # public-repo
-version 1
+version 2
